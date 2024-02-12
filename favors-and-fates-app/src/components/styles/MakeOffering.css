@@ -1,0 +1,14 @@
+.makeOffering {
+  padding-bottom: 15px;
+
+  img.makeOfferingImage {
+    padding-top: 5px;
+    width: 300px;
+  }
+
+  .makeOfferingName {
+    font-family: Garamond, serif;
+    padding-right: 5px;
+  }
+
+}

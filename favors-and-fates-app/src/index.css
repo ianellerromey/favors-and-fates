@@ -1,0 +1,19 @@
+body {
+  background-color: #123E0B;
+  margin: 0;
+  font-family: Georgia, serif;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  h1 {
+    margin-top: 150px;
+    text-shadow: 3px 3px #021000;
+  }
+
+  h3 {
+    color: #6A7F38;
+    font-style: italic;
+  }
+
+}

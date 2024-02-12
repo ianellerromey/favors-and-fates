@@ -1,0 +1,2 @@
+Start-Process powershell.exe -ArgumentList "-noexit", "dotnet run --project .\favors-and-fates-webservice\favors-and-fates-webservice\"
+Start-Process powershell.exe -ArgumentList "-noexit", "cd .\favors-and-fates-app\; npm run start"

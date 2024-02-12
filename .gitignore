@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/favors-and-fates-app/node_modules
+/favors-and-fates-app/.pnp
+/favors-and-fates-app.pnp.js
+
+# testing
+/favors-and-fates-app/coverage
+
+# production
+/favors-and-fates-app/build
+/favors-and-fates-webservice/*/bin
+/favors-and-fates-webservice/*/obj
+
+# misc
+/favors-and-fates-app/.DS_Store
+/favors-and-fates-app/.env.local
+/favors-and-fates-app/.env.development.local
+/favors-and-fates-app/.env.test.local
+/favors-and-fates-app/.env.production.local
+
+/favors-and-fates-app/npm-debug.log*
+/favors-and-fates-app/yarn-debug.log*
+/favors-and-fates-app/yarn-error.log*
+
+/favors-and-fates-webservice/.vscode
